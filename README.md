@@ -1,2 +1,2 @@
 # Playlist-PHP-Admin
-TP de PHP nous entrainant a réaliser un admin. fonctionnel pour nos sites
+TP de PHP nous entrainant a réaliser un adminfonctionnel pour nos sites
